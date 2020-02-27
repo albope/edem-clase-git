@@ -1,2 +1,4 @@
-# edem-clase-git
-Repositorio para la clase de GIT
+# Machine Learning Course Coursera
+Repository for the Coursera Machine Learning Course with Python
+
+
